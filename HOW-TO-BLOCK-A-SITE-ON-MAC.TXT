@@ -1,0 +1,10 @@
+//switch to administrator account
+su <admin account>
+
+//open hosts file
+sudo pico /etc/hosts
+
+//Ctrl + O to save and Ctrl + X to exit
+
+//clean cache
+sudo dscacheutil -flushcache
