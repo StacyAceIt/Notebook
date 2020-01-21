@@ -1,0 +1,8 @@
+How to push changes in a local repo to GitHub?
+
+1. make changes in local repo
+2. git add fileName
+3. git commit -m "commit message which will be displayed"
+4. git push origin branchName
+
+Must add before commit
